@@ -1,1 +1,2 @@
 I'm loving this!
+Testing git commit without 'm' flag
